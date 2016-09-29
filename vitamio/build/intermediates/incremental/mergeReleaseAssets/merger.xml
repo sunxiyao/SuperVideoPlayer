@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\WorkSpace\Exam\SuperVideoPlayer\vitamio\src\main\assets"/><source path="D:\WorkSpace\Exam\SuperVideoPlayer\vitamio\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\WorkSpace\Exam\SuperVideoPlayer\vitamio\src\release\assets"/></dataSet></merger>
